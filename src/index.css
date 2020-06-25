@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: maaja;
+  font-family: maajaregular;
 }
 
 code {
@@ -9,8 +9,9 @@ code {
 }
 
 @font-face {
-  font-family: "maaja";
-  src: local("maaja"),
-    url(https://srv-file20.gofile.io/download/PmPgNy/maaja_ver_1.00.ttf)
-      format("tff");
+  font-family: "maajaregular";
+  src: url("maaja_ver_1.00-webfont.woff2") format("woff2"),
+    url("maaja_ver_1.00-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
 }
