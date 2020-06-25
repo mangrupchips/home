@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d8f3ac0d24e27c502845aba73bb47ade",
+    "revision": "89d77c6143478a5142b739279433083d",
     "url": "/home/index.html"
   },
   {
-    "revision": "229187247c8f27fef692",
-    "url": "/home/static/css/main.5bc27e99.chunk.css"
+    "revision": "82f85fa5bacf0816d812",
+    "url": "/home/static/css/main.30413d13.chunk.css"
   },
   {
     "revision": "e035ae0530fa729543ed",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/home/static/js/2.8ef3efb7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "229187247c8f27fef692",
+    "revision": "82f85fa5bacf0816d812",
     "url": "/home/static/js/main.3ba3e9ff.chunk.js"
   },
   {
@@ -30,6 +30,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
     "url": "/home/static/media/logo.5d5d9eef.svg"
+  },
+  {
+    "revision": "14fde285a0b8e9c0d0121d701470e9da",
+    "url": "/home/static/media/maaja_ver_1.00-webfont.14fde285.woff"
+  },
+  {
+    "revision": "b726fd30c066923536382dfcde771a5d",
+    "url": "/home/static/media/maaja_ver_1.00-webfont.b726fd30.woff2"
   },
   {
     "revision": "6d4be742d6c104c03d80a3687bc9c2ca",
