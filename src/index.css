@@ -1,14 +1,16 @@
 body {
   margin: 0;
-  font-family: maaja
+  font-family: maaja;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
 
 @font-face {
-  font-family: 'maaja';
-  src: local('maaja'), url(./fonts/maaja_ver_1.00.ttf) format('tff');
+  font-family: "maaja";
+  src: local("maaja"),
+    url(https://srv-file20.gofile.io/download/PmPgNy/maaja_ver_1.00.ttf)
+      format("tff");
 }
