@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "493bc7e82845f0b129d393fd0153a750",
+    "revision": "d8f3ac0d24e27c502845aba73bb47ade",
     "url": "/home/index.html"
   },
   {
-    "revision": "743991be0aafa4e0092f",
-    "url": "/home/static/css/main.ede9ec2f.chunk.css"
+    "revision": "229187247c8f27fef692",
+    "url": "/home/static/css/main.5bc27e99.chunk.css"
   },
   {
     "revision": "e035ae0530fa729543ed",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/home/static/js/2.8ef3efb7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "743991be0aafa4e0092f",
+    "revision": "229187247c8f27fef692",
     "url": "/home/static/js/main.3ba3e9ff.chunk.js"
   },
   {
@@ -30,10 +30,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
     "url": "/home/static/media/logo.5d5d9eef.svg"
-  },
-  {
-    "revision": "fc6797d7996072d22a03b73cc37cf10e",
-    "url": "/home/static/media/maaja_ver_1.00.fc6797d7.ttf"
   },
   {
     "revision": "6d4be742d6c104c03d80a3687bc9c2ca",

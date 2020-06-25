@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.ede9ec2f.chunk.css",
+    "main.css": "/home/static/css/main.5bc27e99.chunk.css",
     "main.js": "/home/static/js/main.3ba3e9ff.chunk.js",
     "main.js.map": "/home/static/js/main.3ba3e9ff.chunk.js.map",
     "runtime-main.js": "/home/static/js/runtime-main.0781c2b0.js",
@@ -8,19 +8,18 @@
     "static/js/2.8ef3efb7.chunk.js": "/home/static/js/2.8ef3efb7.chunk.js",
     "static/js/2.8ef3efb7.chunk.js.map": "/home/static/js/2.8ef3efb7.chunk.js.map",
     "index.html": "/home/index.html",
-    "precache-manifest.34a04ff69c84063ece3bdf68c84544ed.js": "/home/precache-manifest.34a04ff69c84063ece3bdf68c84544ed.js",
+    "precache-manifest.2406cadabe313837caf295e1387e94bc.js": "/home/precache-manifest.2406cadabe313837caf295e1387e94bc.js",
     "service-worker.js": "/home/service-worker.js",
-    "static/css/main.ede9ec2f.chunk.css.map": "/home/static/css/main.ede9ec2f.chunk.css.map",
+    "static/css/main.5bc27e99.chunk.css.map": "/home/static/css/main.5bc27e99.chunk.css.map",
     "static/js/2.8ef3efb7.chunk.js.LICENSE.txt": "/home/static/js/2.8ef3efb7.chunk.js.LICENSE.txt",
     "static/media/igicon.png": "/home/static/media/igicon.97254915.png",
     "static/media/logo.svg": "/home/static/media/logo.5d5d9eef.svg",
-    "static/media/index.css": "/home/static/media/maaja_ver_1.00.fc6797d7.ttf",
     "static/media/mangrupchips-durian.png": "/home/static/media/mangrupchips-durian.6d4be742.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0781c2b0.js",
     "static/js/2.8ef3efb7.chunk.js",
-    "static/css/main.ede9ec2f.chunk.css",
+    "static/css/main.5bc27e99.chunk.css",
     "static/js/main.3ba3e9ff.chunk.js"
   ]
 }
