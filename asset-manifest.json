@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.30413d13.chunk.css",
-    "main.js": "/home/static/js/main.3ba3e9ff.chunk.js",
-    "main.js.map": "/home/static/js/main.3ba3e9ff.chunk.js.map",
+    "main.css": "/home/static/css/main.af4f7899.chunk.css",
+    "main.js": "/home/static/js/main.18c077fa.chunk.js",
+    "main.js.map": "/home/static/js/main.18c077fa.chunk.js.map",
     "runtime-main.js": "/home/static/js/runtime-main.0781c2b0.js",
     "runtime-main.js.map": "/home/static/js/runtime-main.0781c2b0.js.map",
-    "static/js/2.8ef3efb7.chunk.js": "/home/static/js/2.8ef3efb7.chunk.js",
-    "static/js/2.8ef3efb7.chunk.js.map": "/home/static/js/2.8ef3efb7.chunk.js.map",
+    "static/js/2.c396abb4.chunk.js": "/home/static/js/2.c396abb4.chunk.js",
+    "static/js/2.c396abb4.chunk.js.map": "/home/static/js/2.c396abb4.chunk.js.map",
     "index.html": "/home/index.html",
-    "precache-manifest.a7af2c149245afc69d9ae0dfa9c1b724.js": "/home/precache-manifest.a7af2c149245afc69d9ae0dfa9c1b724.js",
+    "precache-manifest.99f57f15b84028cce854c512921ca121.js": "/home/precache-manifest.99f57f15b84028cce854c512921ca121.js",
     "service-worker.js": "/home/service-worker.js",
-    "static/css/main.30413d13.chunk.css.map": "/home/static/css/main.30413d13.chunk.css.map",
-    "static/js/2.8ef3efb7.chunk.js.LICENSE.txt": "/home/static/js/2.8ef3efb7.chunk.js.LICENSE.txt",
+    "static/css/main.af4f7899.chunk.css.map": "/home/static/css/main.af4f7899.chunk.css.map",
+    "static/js/2.c396abb4.chunk.js.LICENSE.txt": "/home/static/js/2.c396abb4.chunk.js.LICENSE.txt",
+    "static/media/banana.png": "/home/static/media/banana.f72d4413.png",
     "static/media/igicon.png": "/home/static/media/igicon.97254915.png",
+    "static/media/jackfruit.png": "/home/static/media/jackfruit.27b0f60e.png",
     "static/media/logo.svg": "/home/static/media/logo.5d5d9eef.svg",
     "static/media/index.css": "/home/static/media/maaja_ver_1.00-webfont.b726fd30.woff2",
     "static/media/mangrupchips-durian.png": "/home/static/media/mangrupchips-durian.6d4be742.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0781c2b0.js",
-    "static/js/2.8ef3efb7.chunk.js",
-    "static/css/main.30413d13.chunk.css",
-    "static/js/main.3ba3e9ff.chunk.js"
+    "static/js/2.c396abb4.chunk.js",
+    "static/css/main.af4f7899.chunk.css",
+    "static/js/main.18c077fa.chunk.js"
   ]
 }
